@@ -1,3 +1,4 @@
+//creado por gerard garces
 #include<iostream>
 using namespace std;
 int main()
